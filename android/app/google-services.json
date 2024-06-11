@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "858080245129",
+    "firebase_url": "https://ejercicio-de-practica-c2a5b-default-rtdb.firebaseio.com",
+    "project_id": "ejercicio-de-practica-c2a5b",
+    "storage_bucket": "ejercicio-de-practica-c2a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858080245129:android:da4d3aae3741aca6631d58",
+        "android_client_info": {
+          "package_name": "com.app.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO12z1tFP-96kub__D1bB7LBcvC5Qi_mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858080245129:android:ce39f78fe2883fcf631d58",
+        "android_client_info": {
+          "package_name": "com.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO12z1tFP-96kub__D1bB7LBcvC5Qi_mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858080245129:android:ebfdec605cfefd2d631d58",
+        "android_client_info": {
+          "package_name": "com.example.flutte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO12z1tFP-96kub__D1bB7LBcvC5Qi_mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
